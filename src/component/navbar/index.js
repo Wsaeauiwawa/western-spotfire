@@ -1,10 +1,5 @@
 import React from "react";
-import {Nav,
-  NavLink,
-  Bars,
-  NavMenu,
-  NavBtn,
-  NavBtnLink} from './NavbarElement';
+import { Nav,NavLink,Bars,NavMenu } from './NavbarElement';
   import { BsFillPieChartFill } from "react-icons/bs";
   import { BsFillBarChartFill } from "react-icons/bs";
   import { FcScatterPlot } from "react-icons/fc";
